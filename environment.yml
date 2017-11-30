@@ -3,4 +3,5 @@ channels:
   - nodefaults
   - conda-forge
 dependencies:
+  - numpy
   - bqplot
