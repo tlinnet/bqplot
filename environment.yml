@@ -1,7 +1,5 @@
 name: bqplot
 channels:
-  - nodefaults
   - conda-forge
 dependencies:
-  - numpy
   - bqplot
